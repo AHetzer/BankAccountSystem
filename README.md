@@ -1,6 +1,6 @@
 **Bank Account System with Tiered Interest Rates:**
 
-A simple bank account system utilizing inheritance to create functionality for a regular bank account, savings account, and checking account.
+A simple bank account system utilizing inheritance to create functionality for a default bank account, savings account, and checking account.
 
 The savings account has a tiered interest system where if the account has $1000 or less the interest rate is 3%, 
 between $1000 and $5000 is 5%, and above $5000 is 7%.
