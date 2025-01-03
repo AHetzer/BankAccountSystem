@@ -58,3 +58,4 @@ class CheckingAccount(BankAccount):
                 self.balance = self.balance - amount
                 if self.balance < 0:                      # Charging overdraft fee
                     self.balance -= self.overdraft_fee
+
